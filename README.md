@@ -6,9 +6,7 @@ LearnSol Playground is a minimal, elegant, and responsive web app designed to de
 
 Whether you're prototyping, learning, or building your next dApp, LearnSol is your go-to launchpad.
 
-🚀 Live Demo & Video
-🔗 Live URL: learnsol.vercel.app (replace with your actual URL)
-
+🚀 Live Demo Video
 📺 Demo Video: Watch on YouTube (replace with your actual video)
 
 ✨ Features
