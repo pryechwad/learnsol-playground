@@ -1,67 +1,9 @@
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-# 🌌 LearnSol Playground
+## Getting Started
 
-An AI-powered Solana Playground built with Next.js — where developers can interactively explore, generate, and simulate smart contracts using modern web technologies.
+First, run the development server:
 
----
-
-## 🔍 Overview
-
-**LearnSol Playground** is a dynamic and visually appealing web app designed to highlight key features, FAQs, and upcoming additions with a strong emphasis on responsiveness, accessibility, and modern design practices.
-
----
-
-## ✨ Features
-
-### 🔧 Key Features
-- **Interactive Design**: Explore dynamic and responsive layouts.
-- **Advanced Functionality**: Leverage cutting-edge features for your projects.
-- **Seamless Integration**: Integrate effortlessly with existing systems.
-
-### 📚 FAQ Section
-- Searchable FAQs with collapsible answers.
-- Transparent backgrounds and faint blue outlines for consistency.
-- Improved styling and alignment for better user experience.
-
-### 🔮 Upcoming Features
-- **Real-Time Collaboration**: Enable multiple users to work on the same project simultaneously.
-- **AI-Powered Insights**: Leverage artificial intelligence for actionable recommendations.
-- **Enhanced Security**: Implement advanced security measures to protect user data.
-
----
-
-## 🎨 Design Highlights
-
-- **Color Scheme**: Faint blue outlines for boxes, white text for better visibility.
-- **Layout**: Grid-based layout for upcoming features, ensuring side-by-side display.
-- **Styling**: Hover effects and smooth transitions for interactive elements.
-
----
-
-## 🛠 Technologies Used
-
-- **React**: For building reusable components.
-- **TypeScript**: Ensuring type safety and better developer experience.
-- **Styled-Components**: For dynamic and scoped styling.
-- **Next.js**: Full-stack React framework.
-- **Tailwind CSS**: Utility-first CSS for rapid UI development.
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/learnsol-playground
-cd learnsol-playground
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Start the development server:
 ```bash
 npm run dev
 # or
@@ -72,28 +14,23 @@ pnpm dev
 bun dev
 ```
 
-4. Open your browser at [http://localhost:3000](http://localhost:3000)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
----
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## 📈 Future Improvements
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-- Add more interactive elements to enhance user engagement.
-- Expand the FAQ section with additional questions and answers.
-- Introduce animations for transitions and hover effects.
-- Add Monaco editor for smart contract code view.
-- Add wallet integration (Phantom, Solana Pay).
+## Learn More
 
----
+To learn more about Next.js, take a look at the following resources:
 
-## 👨‍💻 Author
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-This design was created with a focus on user experience and modern web development practices.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
----
+## Deploy on Vercel
 
-## 📘 Learn More
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Learn Next.js](https://nextjs.org/learn)
-- [Next.js GitHub Repository](https://github.com/vercel/next.js)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
