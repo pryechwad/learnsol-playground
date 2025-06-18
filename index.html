@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LearnSol Playground</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <h1>LearnSol Playground</h1>
+    <button id="theme-toggle" class="theme-toggle">Switch to Dark Mode</button>
+  </header>
+  <main class="main">
+    <textarea id="prompt" class="prompt" placeholder="Create a Solana token contract using Anchor"></textarea>
+    <button id="generate" class="generate">Generate</button>
+    <div id="output" class="output">
+      <h2>Generated Code:</h2>
+      <pre id="generated-code" class="generated-code"></pre>
+      <h2>Simulation Response:</h2>
+      <p id="simulation-response" class="simulation-response"></p>
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
