@@ -1,14 +1,15 @@
-# LearnSol Playground – Full Stack Internship Submission
+ LearnSol Playground — MVP
 
-This is a v0 MVP of the LearnSol AI-powered Solana Playground. Inspired by [beta.solpg.io](https://beta.solpg.io), this version allows users to prompt an AI in natural language and view generated Solana smart contract code (using Anchor + Rust).
+Welcome to the LearnSol Playground – a minimal, no-code AI-powered Solana smart contract simulator. This is a submission for the Full Stack Internship assignment at LearnSol.
+
+The goal was to build a v0, lovable MVP version of the core product — inspired by [beta.solpg.io](https://beta.solpg.io) — where users can chat with an AI in natural language and get corresponding Solana (Anchor) smart contract code as output.
 
 ---
 
-## 🔗 Live Demo  
-👉 [https://learnsol-playground.vercel.app](https://learnsol-playground.vercel.app)
+## 🌐 Live Demo
+🎥 
 
-## 📺 Demo Video  
-▶️ [Watch on YouTube](https://youtu.be/your-youtube-video-link)
+---
 
 ---
 
